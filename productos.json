@@ -1,0 +1,7 @@
+[
+    { "nombre": "torta", "precio": 10000, "descripcion": "Torta alta de 3 discos y 2 rellenos a eleccion" },
+    { "nombre": "cupcakes", "precio": 850, "descripcion": "Cupcakes con frosting de buttercream" },
+    { "nombre": "cookies", "precio": 700, "descripcion": "Galletas decoradas a eleccion" },
+    { "nombre": "paletas", "precio": 1200, "descripcion": "Paletas decoradas a eleccion" },
+    { "nombre": "oreo bañadas", "precio": 350, "descripcion": "Oreo cubiertas de chocolate" }
+  ]
